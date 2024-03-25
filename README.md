@@ -25,13 +25,16 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+
+## OUTPUT
+
 <!DOCTYPE html>
 <html>
     <title> images demo </title>
 </html>
 <body>
     <h1> imagemaps demo</h1>
-    <img src="aravind.png" usemap="#image_map">
+    <img src="kishore-hometown.png" usemap="#image_map">
     <map name="image_map">
     <area alt="TV MALAI BUS STAND" title="Bus Stand" href="busstand.html" coords="778,229,915,339" shape="rect">
     <area alt="railway station" title="railway station" href="station.html" coords="941,300,979,343" shape="rect">
@@ -41,10 +44,6 @@ Execute the programs and publish them.
     </map>
 
 </body>
-
-## OUTPUT
-
-
 
 
 

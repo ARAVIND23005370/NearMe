@@ -133,7 +133,8 @@ Execute the programs and publish them.
 ### mountain.html
 ![alt text](<Screenshot 2024-04-03 110423-1.png>)
 ### fun.html
-![alt text](<Screenshot 2024-04-03 110442-1.png>)
+![Screenshot 2024-04-03 110442](https://github.com/ARAVIND23005370/NearMe/assets/148514836/45678224-d54a-4c32-962d-ecc9812a5209)
+
 ### mobile.html
 ![alt text](<Screenshot 2024-04-03 110452-1.png>)
 ### pushpa mahal.html

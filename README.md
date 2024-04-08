@@ -128,7 +128,8 @@ Execute the programs and publish them.
 ```
 ## OUTPUT
 ### map.html
-![alt text](<Screenshot 2024-04-03 110339-1.png>)
+![Screenshot 2024-04-08 143023](https://github.com/ARAVIND23005370/NearMe/assets/148514836/2319fe63-11c3-42ee-9ba7-6d5b32cff7e5)
+
 ### mountain.html
 ![alt text](<Screenshot 2024-04-03 110423-1.png>)
 ### fun.html
